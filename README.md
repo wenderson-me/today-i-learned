@@ -2,4 +2,4 @@
 
 #Quadro de aprendizado diário
 
-- 15/jun/2021 - Resolução de problemas
+- 15/jun/2021 - Documentar aprendizado / Resolução de problemas
