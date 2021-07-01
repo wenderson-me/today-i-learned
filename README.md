@@ -9,3 +9,4 @@
 - 22/jun/2021 - Principios de teste / Processo de teste </br> 
 - 23/jun/2021 - Psicologia do teste / Modelos de Ciclo de vida de desenvolvimento de software </br>
 - 28/jun/2021 - Defeitos, causa-raiz e efeitos
+- 30/jun/2021 - Niveis de teste / Tipos de teste
