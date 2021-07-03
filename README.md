@@ -12,3 +12,4 @@
 - 28/jun/2021 - Defeitos, causa-raiz e efeitos
 - 30/jun/2021 - Niveis de teste / Tipos de teste
 - 01/jul/2021 - Teste de manutenção / Testes estáticos / SonarQube
+- 02/jul/2021 - Revisão de tudo que foi aprendido até o momento
