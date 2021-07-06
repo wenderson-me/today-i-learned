@@ -13,4 +13,4 @@
 - 30/jun/2021 - Niveis de teste / Tipos de teste
 - 01/jul/2021 - Teste de manutenção / Testes estáticos / SonarQube
 - 02/jul/2021 - Revisão de tudo que foi aprendido até o momento
-- 05/jul/2021 - Processo de revisão - Testes estáticos
+- 05/jul/2021 - Processo de revisão - Testes estáticos / Categorias de técnicas de teste e suas características
