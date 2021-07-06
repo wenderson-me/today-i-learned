@@ -14,3 +14,4 @@
 - 01/jul/2021 - Teste de manutenção / Testes estáticos / SonarQube
 - 02/jul/2021 - Revisão de tudo que foi aprendido até o momento
 - 05/jul/2021 - Processo de revisão - Testes estáticos / Categorias de técnicas de teste e suas características
+- 06/jul/2021 - Partição de equivalência - Teste de caixa-preta
