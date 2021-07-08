@@ -15,4 +15,4 @@
 - 02/jul/2021 - Revisão de tudo que foi aprendido até o momento
 - 05/jul/2021 - Processo de revisão - Testes estáticos / Categorias de técnicas de teste e suas características
 - 06/jul/2021 - Partição de equivalência / Análise de valor limite - Teste de caixa-preta
-- 97/jul/2021 - Tabela de decisão - Teste de caixa preta
+- 07/jul/2021 - Tabela de decisão - Teste de caixa preta
