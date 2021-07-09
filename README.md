@@ -16,3 +16,4 @@
 - 05/jul/2021 - Processo de revisão - Testes estáticos / Categorias de técnicas de teste e suas características
 - 06/jul/2021 - Partição de equivalência / Análise de valor limite - Teste de caixa-preta
 - 07/jul/2021 - Tabela de decisão - Teste de caixa preta
+- 08/jul/2021 - Transição de estado - Teste de caixa preta
